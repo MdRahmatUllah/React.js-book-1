@@ -1,4 +1,4 @@
-# Outline for React for beginners course
+# React 101: A Beginner's Guide to Building Web Applications
 
 Welcome to this book on React, a popular JavaScript library for building user interfaces. This book is designed for beginners who want to learn how to build web applications using React.
 
